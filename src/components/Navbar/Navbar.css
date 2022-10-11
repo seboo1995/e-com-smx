@@ -4,7 +4,7 @@
   }
   
   .flex-container > div {
-    margin: 10px;
+    margin: 5px;
     padding: 20px;
     font-size: 20px;  
   }
@@ -26,5 +26,13 @@
 
 
 .menu-item{
-width:140px;
+width:100px;
 }
+.icons{
+  display:flex;
+  flex-direction:row;
+}
+.single-icon{
+  margin-left:30px;
+}
+

@@ -1,0 +1,10 @@
+.flex-container-carousel{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.flex-container-carousel-item{
+margin:20px;
+
+}

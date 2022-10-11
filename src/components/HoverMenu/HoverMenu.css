@@ -3,6 +3,8 @@
     width:55rem;
     height:300px;
     background-color:red;
+    z-index: 999;
+    position:fixed
 }
 
 .grid-container {
