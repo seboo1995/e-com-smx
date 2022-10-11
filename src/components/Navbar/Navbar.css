@@ -1,0 +1,30 @@
+.flex-container {
+    display: flex;
+    gap:20px;
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;  
+  }
+
+.logo h1{
+    padding-top: 1.5rem;
+    font-size: 35px;
+    margin-left:3rem;
+
+}
+.lang{
+    margin-left: 20rem;
+}
+.lang p{
+    font-size:15px;
+    display:inline;
+    margin-left:10px;
+}
+
+
+.menu-item{
+width:140px;
+}
